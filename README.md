@@ -37,6 +37,7 @@ WHO/
 | 1 | User Always Wins | `Business-Rule-1-User-Always-Wins.md` | Guarantee that a completed prune-and-rank flow always ends in a real matched activity; the weekly release/prune/match timeline |
 | 2 | Reliability, Not Bounty | `Business-Rule-2-Reliability-Not-Bounty.md` | No-show accountability without punitive payouts to other users or the platform; show-up verification; deposit tiers; the Community Voucher Pool and Personal Voucher Builder |
 | 3 | Intent, Not Identity | `Business-Rule-3-Intent-Not-Identity.md` | The platonic↔romantic scale and gender preference at the overlap-match step, and why one never gates the other |
+| 4 | Conduct, Not Reliability | `Business-Rule-4-Conduct-Not-Reliability.md` | Blocking (personal, silent) vs. reporting (community signal, logged); the trust & safety record kept separate from the reliability score; two-track moderation escalation |
 
 ## Commit Convention
 
@@ -67,5 +68,6 @@ These are project-wide open questions, separate from the open items listed insid
 
 - Tech stack — nothing chosen yet, repo is docs-only at this stage.
 - Activity sourcing — who supplies/creates activities in the weekly pile (curated, partner venues, user-submitted, or a mix) — not yet defined.
+- Trusted-contact sharing and in-activity safety check-ins — deferred to V1/V2, not MVP (see Business Rule #4).
 
 This README will evolve alongside the project — update it when the repo structure changes, a stack is chosen, or a new top-level concept (beyond what's in the Business Rules) gets introduced.
