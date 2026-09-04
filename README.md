@@ -35,7 +35,8 @@ WHO/
 | # | Title | File | Covers |
 |---|---|---|---|
 | 1 | User Always Wins | `Business-Rule-1-User-Always-Wins.md` | Guarantee that a completed prune-and-rank flow always ends in a real matched activity; the weekly release/prune/match timeline |
-| 2 | Reliability, Not Bounty | `Business-Rule-2-Reliability-Not-Bounty.md` | No-show accountability without punitive payouts to other users or the platform; deposit tiers; the Community Voucher Pool and Personal Voucher Builder |
+| 2 | Reliability, Not Bounty | `Business-Rule-2-Reliability-Not-Bounty.md` | No-show accountability without punitive payouts to other users or the platform; show-up verification; deposit tiers; the Community Voucher Pool and Personal Voucher Builder |
+| 3 | Intent, Not Identity | `Business-Rule-3-Intent-Not-Identity.md` | The platonic↔romantic scale and gender preference at the overlap-match step, and why one never gates the other |
 
 ## Commit Convention
 
@@ -65,8 +66,6 @@ chore(planning): restructure business rules by version
 These are project-wide open questions, separate from the open items listed inside individual rule docs:
 
 - Tech stack — nothing chosen yet, repo is docs-only at this stage.
-- Show-up verification mechanism — currently being designed (mutual in-app check-in + geofence, likely with an optional photo confirmation; hardware like NFC/QR deferred past MVP).
-- Romantic↔platonic filter mechanics at the overlap-match step — not yet defined.
 - Activity sourcing — who supplies/creates activities in the weekly pile (curated, partner venues, user-submitted, or a mix) — not yet defined.
 
 This README will evolve alongside the project — update it when the repo structure changes, a stack is chosen, or a new top-level concept (beyond what's in the Business Rules) gets introduced.
